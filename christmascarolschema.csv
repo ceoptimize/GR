@@ -1,0 +1,10 @@
+﻿label,properties
+:`Event`:`__Entity__`,"[id, description, human_readable_id, name, description_embedding]"
+:`Finding`,"[id, summary, explanation]"
+:`Geo`:`__Entity__`,"[id, description, human_readable_id, name, description_embedding]"
+:`Organization`:`__Entity__`,"[id, description, human_readable_id, name, description_embedding]"
+:`Person`:`__Entity__`,"[id, description, human_readable_id, name, description_embedding]"
+:`__Chunk__`,"[id, n_tokens, text]"
+:`__Community__`,"[title, rank, weight, community, level, full_content, rank_explanation, summary]"
+:`__Document__`,"[id, title]"
+:`__Entity__`,"[id, description, human_readable_id, name, description_embedding]"
